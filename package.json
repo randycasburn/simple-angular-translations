@@ -1,0 +1,9 @@
+{
+  "name": "translate-example",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "^1.5.3",
+    "angular-translate": "^2.11.0",
+    "angular-translate-loader-static-files": "^2.11.0"
+  }
+}
